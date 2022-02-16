@@ -1,5 +1,8 @@
-
-# Web Developer Olmaq
+---
+title: Web developer olmaq
+date: 2016-02-06
+layout: layouts/post.njk
+---
 
 Bu dəfə bir az web haqda sizə məlumat vermək istəyirəm. Mən özüm hələki web developer olaraq iş həyatına girməsəm də hədəflərim bu istiqamətdədir. Mənə daha çox Front-End Development maraqlı gəlir. Əlimdən gəldiyi qədər web sahəsində sizə məlumat verməyə çalışacağam. Məsələn, hansı sahələrdə işləyə bilərsiniz və ya bir web developer olaraq hansı işlər ilə məşğul ola bilərsiniz və s.
 
