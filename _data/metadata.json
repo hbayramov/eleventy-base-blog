@@ -4,7 +4,7 @@
   "language": "en",
   "description": "özgə fikirlər",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "özgə fikirlər",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -14,8 +14,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
+    "name": "Hüseyn Bayramov",
+    "email": "hbayramovv@gmail.com",
     "url": "https://example.com/about-me/"
   }
 }
