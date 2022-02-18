@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Haqqımda
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About me
+  key: Haqqımda
   order: 3
 ---
 
