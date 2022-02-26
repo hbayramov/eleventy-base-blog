@@ -1,5 +1,5 @@
 ---
-title: Holden Kolfild-in Dilindən Azərbaycan Ədəbiyyatı
+title: Holden Kolfild'in Dilindən Azərbaycan Ədəbiyyatı
 date: 2016-02-15
 layout: layouts/post.njk
 ---
