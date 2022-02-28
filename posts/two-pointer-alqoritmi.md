@@ -13,13 +13,56 @@ Birdə, X dəyəri verilir və verilən arraydə iki ədədin toplamının bu ə
 
 İlk yazacağımız kod:
 
-<script src="https://gist.githubusercontent.com/hbayramov/ad115096ac7681eb6acc9362b2eb9e7e/raw/47da8b2e31b31f5da419ec642f81d4706983601b/two-pointer-brute-force.java"></script>
+```java
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println(Main.findPairs(new int[]{10, 20, 35, 50, 75, 80}, 70));
+    }
+
+    public static Boolean findPairs(int[] array, int X) {
+
+        for(int i=0; i < array.length; ++i) {
+            for(int j=i+1; j < array.length; ++j) {
+                if(array[i] + array[j] == X) // tapdıq
+                    return true;
+
+                if(array[i] + array[j] > X) // sıralanmış olduğuna görə mənası yoxdur
+                    break;
+            }
+        }
+
+        return false; // tapılmadı
+    }
+}
+```
 
 İlk ağlımıza gələn həll yolu hamıda aşağı-yuxarı belə olur. Yəni mən arrayin bir dəyərini alıb bütün digər dəyərləri ilə toplayaraq, X ədədinə bərabər olub olmamasını yoxlayıram. Bu alqoritmin time complexitysi (cavabı tapmaq üçün sərf etdiyi vaxt) O(n^2) olacaq.
 
 Lakin, biz arrayin sıralanmış olduğundan istifadə edərək ilk və son indeksini tutmaqla, başdan və sondan ədədləri toplayıb, verilən ədədə bərabər olub-olmamasını yoxlaya bilərik. Əgər toplam verilən ədəddən böyükdürsə, sondan bir azaldırıq (çünki, arrayimiz sıralanıb) yox əgər kiçikdirsə əvvələ bir əlavə edirik. Kod daha yaxşı izah edər.
 
-<script src="https://gist.githubusercontent.com/hbayramov/7110d9e16d5d97004594ab80c599ea5b/raw/dc8600d9dd7098f173202e5a3a579dcce4d4f889/two-pointer.java"></script>
+```java
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println(Main.findPairs(new int[]{10, 20, 35, 50, 75, 80}, 70));
+    }
+
+    public static Boolean findPairs(int[] array, int X) {
+        int i = 0;
+        int j = array.length-1;
+
+        while (i < j) {
+            if(array[i] + array[j] == X) return true; // tapdıq
+
+            if(array[i] + array[j] > X) --j;  // əgər toplam X ədədindən böyükdürsə j-ni azalt
+            else ++i; // yox əgər kiçikdirsə i-ni artır
+        }
+
+        return false; // tapılmadı
+    }
+}
+```
 
 Deməli, two-pointer alqoritmində istifadə edərək bir loopdan canımızı qurtara bildik. İndi isə, time complexityimiz O(n) oldu.
 
