@@ -1,0 +1,31 @@
+---
+title: Rosenhan Təcrübəsi
+date: 2022-03-06
+layout: layouts/post.njk
+---
+
+Rosenhan təcrübəsi, David Rosenhan tərəfindən 1969-1972'ci illəri arasında həyata keçirilən və kifayət qədər səs-küy yaratmağı bacaran təcrübədir. David Rosenhan, bu təcrübəni bu suala cavab tapmaq üçün edir; ''Bir şəxsin ağıl sağlamlığının yerində olub-olmaması və ağıl sağlamlığının dərəcəsi müəyyən edilə bilərmi?'' Rosenhan, psixiatriya mütəxəssislərinin fikirlərinin obyektiv meyarlara əsaslanmadığını fikirləşdiyi üçün özü bu mövzuda heç də optimist deyil. Özü də bir psixiatr Rosenhan, etdiyi təcrübə nəticəsində psixiatriyanın obyektiv meyarlara əsaslanmadığını və psixiatrik diaqnoz sisteminə güvənilməyəcəyini isbatlamış olur. İndi isə təcrübəyə keçək.
+
+**Qeyd**
+Aparılan təcrübə psixoterapiyanın ''lazımsız'' olduğunu göstərmək məqsədi daşımır. Təəsüf ki, bu çox sui-istifadə edilir. Təcrübə də məqsəd ağılın sağlamlıq dərəcəsini müəyyən etmənin mümkün olub-olmamasıdır.
+
+Rosenhan, bu təcrübə üçün özü ilə birlikdə üç psixoloq, bir psixiatr, bir tələbə, bir pedaqoq, bir ev qadını və bir rəssamın olduğu səkkiz nəfərlik qrup yığır. Qrupda olan şəxslərin hamısı qeybdən (qaipten türkcəsi) səslər eşitdiyini deyərək psixiatriya klinikalarına müraciət edirlər. Əslində isə bu səkkiz nəfərin heç bir problemi yoxdur. Klinikaya qəbul olandan bir müddət sonra bu insanlar, heç bir problemlərin olmadığını deyib, normal rəftar etməyə başlayırlar. Normal rəftar etməyə başlasalar belə heç bir klinik tərəfindən ifadələri ciddiyə alınmır. Belə ki, normal rəftar etməyə başlayandan sonra ən tez klinikadan çıxmaq yeddi gün vaxtlarını alır.
+
+Klinikadan çıxan hər bir iştirakçı fərqli klinikaya fərqli adlarla müraciət edirlər. Şikayətləri isə həmişə eyni qalır, ''Qeybdən səslər eşidirik''. Toplam 12 fərqli psixiatriya klinikasına müraciət edilir. Müraciət edilən klinikalar arasında özəl, kənd yerlərindəki dövlət klinikaları və böyük şəhərlərdəki universitet klinikaları olur. Müraciət edənlərin hamısı davamlı zehinlərində ''boş'', ''boşluq'' və ''əbəs'' (nafile türkcəsi) kimi sözlər təkrarlandığını iddia edirlər. Bu sözlər ekzistensial bir böhrandan xəbər verdiyi üçün Rosenhan tərəfindən xüsusi ilə seçillmişdir. Maraqlısı odur ki, bu səkkiz nəfərin hamısına psixiatrik xəstə diaqnozu qoyulur. Yeddi nəfər şizofreniya və bir nəfər manik-depresif psixoz diaqnozu qoyularaq hamısı xəstəxanaya yatırılır. Ortalama isə 19 gün (7 ilə 52 gün arasında) xəstəxanada qalırlar.
+
+Psixiatristlər, xəstəxanaya yatırıldıqdan sonra ''normal'' rəftar edən bu şəxslərin xəstə olmadıqlarına inanmırlar. Hətta, klinikada 115 həqiqi xəstənin 35'i gün ərzində qeyd tutmağa başlayan bu saxta xəstələrə, ''sən dəli yox, professor və ya jurnalistsən'' deyib gülürlər. Yəni, onların həqiqətən xəstə olmadıqlarını bilirlər. Klinikadakı həkimlər isə, bu ''xəstələr'' üçün apardığı qeyd, ''Xəstənin davamlı nəsə yazması, onun narahatçılığının təzahürü olmalıdır, hətta, bu vəziyyət tez-tez şifozreniya ilə əlaqələndirilən kompulsif davranışlarla belə qarışdırılmış ola bilər.'' şəklində olub.
+
+Nəticə etibarı oıə Rosenhan bu təcrübə nəticəsində Science jurnalından ''On Being Sane in İnsane Places'' (hərfi tərcüməsi, ''Dəli yerlərində ağıllı olmaq'' kimidir. Məncə, ''Dəlixanada ağıllı olmaq'' daha yaxşı olar) adlı məqalə dərc edir. Məqalə də qeyd olunur ki, ''Psixiatriya klinikalarından ağıl sağlamlığı yerində olanla olmayan ayırd edilə bilmir.  Heç bir xəstəxanada bu təcrübə boyuncan bu insanların saxta xəstə olduğunun fərqində olmadı. Hesabatlarında bu barədə şübhə belə yer almır. Əksinə, dəlil onu göstərir ki, iştirakçıları bir dəfə şizofreniya diaqnozu qoyulduqdan sonra həmişəlik bu etiketlə barışmalı olublar. Çıxarılan xəstələr üçün belə, ''Simptomlarda keçici bir müsbət hal olduğu'' iddia edilmişdir. Onların ağıllı olduğu heç vaxt anlaşılmayıb. Hətta, onlara görə heç bir zaman da ağıllı olmayıblar. 
+
+Bu saxta xəstələrin müəyyin bir müddət xəstə kimi yatıb, daha sonra xəstəxanadan çıxarılması, Rosenhan'a əsasən psxiatriyanın ağıl xəstələri üçün heç bir şey edə bilmədiyinin göstəricisidir. Daha ciddi bir problem isə, heç kim sağalmış bir xərçəng və ya vərəm xəstəsini qüsurlu görmədiyi halda, şizofreniya diaqnozu qoyulan bir adam isə bu etiketi həmişəlik barışmalı olur.
+
+Təbii ki, məqalə dərc olundan sonra xeyli səs küyə səbəb olur. Rosenhan da daxil olmaqla digər psixoloq, psixiatr tərəfindən eyni jurnalda müzakirələri davam edir. Bir çoxu bu təcrübənin nəticələrini qəbul edə bilmir (və ya etmək istəmir). Bunun psixiatriyaya qarşı güvənsizik yaradacağını və xəstələrə mənfi təsir edəcəyini söyləyir. Psxiatrik diaqnozun tibbi displinlər də olduğu kimi biyokimyəvi testlərdə dəstlənmədiyini deyərək mövcud vəziyyəti qəbul edənlər də olur. Hər bil halda bu təcrübə psixiatriya da əks-sədaya səbəb olur.
+
+Maraqlı bir təklif isə, nəticələri qəbul etməyən bir xəstaxadan gəlir. Xəstəxana rəhbərliyi, Rosenhan'la əlaqəyə keçərək 3 ay ərzidə saxta xəstələr yollamasını və bu saxta xəstələri təsbit edəcəklərini deyir. Xəstəxana rəhbərliyi 3 ay sonra nəticələri paylaşaraq, 3 aylıq periodda 193 xəstənin müraciət etdiyini və bunların 41'inin xəstə olmadığını təsbit etdiyini açıqlayır. 42 xəstənin də simulasiya etdiyindən şübhələniblər. Yəni, müraciət edən xəstələrin 41 dəqiq, 42'si isə şübhəli saxta xəstələrdir. Problem budur ki, 3 ay ərzindən Rosenhan bu xəstaxanaya heç bir adam göndərməmişdir. Yəni, hesabatda qeyd olunan saxta xəstlərin hamısı əlsində psixatrik problemi olub, klinikaya müraciət etmiş sadə insanlardır. Qısacası, təcrübənin ikinci hissəsində də xəstə olanlara normal olduğu diaqnozu qoyulmuşdur.
+
+İstifadə olunan qaynaqlar 
+
+1. Rosenhan DL. On being sane in insane places. Science 1973 Jan 19; 179 (4070): 250-8
+2. Fleischman PR, Israel JV, Burr WA, Hoaken PC, Thaler OF, Zucker HD, Hanley J, Ostow M, Lieberman LR, Hunter FM, Pinsker H, Blair SM, Reich W, Wiedeman GH, Pattison EM, Rosenan DL. Psychiatric diagnosis. Science. 1973 Apr; 180 (4084): 356-69
+3. [PDF](https://www.oulu.fi/sites/default/files/content/AOH%20Terveenä%20epäterveissä%20paikoissa.pdf)
+4. İnterseks- Hermafrodit ve Eşcinsel - Zeki Bayraktar, Motto yayınları, 1-ci Nəşr 2020
